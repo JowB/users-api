@@ -1,74 +1,102 @@
 [
     {
-        "id": 1,
-        "firstName": "Chloé",
-        "lastName": "GALLEGO",
-        "email": "chloe.gallego-pelegrin@my-digital-school.org",
-        "birthDate": "00/00/0000",
-        "avatarUrl": "",
-        "gender": "f"
-    },
-    {
-        "id": 2,
-        "firstName": "Emilie",
-        "lastName": "ARQUILLIERE",
-        "email": "emilie.arquilliere@my-digital-school.org",
-        "birthDate": "00/00/0000",
-        "avatarUrl": "",
-        "gender": "f"
-    },
-    {
         "id": 3,
         "firstName": "Florian",
         "lastName": "BIQUE",
         "email": "florian.bique@my-digital-school.org",
-        "birthDate": "00/00/0000",
-        "avatarUrl": "",
-        "gender": "m"
-    },
-    {
-        "id": 4,
-        "firstName": "Jordan",
-        "lastName": "BRETTON",
-        "email": "jordan.bretton@my-digital-school.org",
-        "birthDate": "03/11/1993",
-        "avatarUrl": "",
-        "gender": "m"
-    },
-    {
-        "id": 5,
-        "firstName": "Yoann",
-        "lastName": "CÔTE",
-        "email": "yoann.cote@my-digital-school.org",
-        "birthDate": "00/00/0000",
-        "avatarUrl": "",
-        "gender": "m"
+        "birthDate": "1999-03-14",
+        "age": 21,
+        "avatarUrl": "/bique_florian.jpg",
+        "gender": "male"
     },
     {
         "id": 6,
         "firstName": "Gabrielle",
         "lastName": "GEROUDET-RASTOIX",
         "email": "gabrielle.geroudet-rastoix@my-digital-school.org",
-        "birthDate": "00/00/0000",
-        "avatarUrl": "",
-        "gender": "f"
-    },
-    {
-        "id": 8,
-        "lastName": "BIQUE",
-        "firstName": "Florian",
-        "email": "florian.bique@my-digital-school.org",
-        "birthDate": "00/00/0000",
-        "avatarUrl": "",
-        "gender": "m"
+        "birthDate": "2000-03-11",
+        "age": 21,
+        "avatarUrl": "/geroudet-rastoix_gabrielle.jpg",
+        "gender": "female"
     },
     {
         "id": 7,
-        "lastName": "MARTIN",
         "firstName": "Antoine",
+        "lastName": "MARTIN",
         "email": "antoine.martin@my-digital-school.org",
-        "birthDate": "1993-04-21",
-        "avatarUrl": "",
-        "gender": "m"
+        "birthDate": "1995-12-14",
+        "age": 27,
+        "avatarUrl": "/martin_antoine.jpg",
+        "gender": "male"
+    },
+    {
+        "id": 8,
+        "firstName": "Alexandre",
+        "lastName": "DUCARRE",
+        "email": "alexandre.ducarre@my-digital-school.org",
+        "birthDate": "2000-11-09",
+        "age": 20,
+        "avatarUrl": "/ducarre_alexandre.jpg",
+        "gender": "male"
+    },
+    {
+        "id": 1,
+        "lastName": "GALLEGO",
+        "firstName": "Chloé",
+        "email": "chloe.gallego-pelegrin@my-digital-school.org",
+        "birthDate": "2000-01-15",
+        "age": 21,
+        "avatarUrl": "/gallego-pelegrin_chloe.jpg",
+        "gender": "female"
+    },
+    {
+        "id": 2,
+        "lastName": "ARQUILLIERE",
+        "firstName": "Emilie",
+        "email": "emilie.arquilliere@my-digital-school.org",
+        "birthDate": "1999-03-07",
+        "age": 22,
+        "avatarUrl": "/arquilliere_emilie.jpg",
+        "gender": "female"
+    },
+    {
+        "id": 5,
+        "lastName": "CÔTE",
+        "firstName": "Yoann",
+        "email": "yoann.cote@my-digital-school.org",
+        "birthDate": "1999-01-01",
+        "age": 22,
+        "avatarUrl": "/cote_yoann.jpg",
+        "gender": "male"
+    },
+    {
+        "id": 4,
+        "lastName": "BRETTON",
+        "firstName": "Jordan",
+        "email": "jordan.bretton@my-digital-school.org",
+        "birthDate": "1993-11-03",
+        "avatarUrl": "/bretton_jordan.jpg",
+        "gender": "male",
+        "age": 27
+    },
+    {
+        "id": 10,
+        "lastName": "TESTO",
+        "firstName": "testi",
+        "email": "tesi@testo.fr",
+        "birthDate": "2021-03-03",
+        "avatarUrl": "/testphoto.jpg",
+        "gender": "male",
+        "age": 0
+    },
+    {
+        "id": 11,
+        "lastName": "AZD",
+        "firstName": "azd",
+        "email": "florian.bique@my-digital-school.org",
+        "birthDate": "2021-03-08",
+        "avatarUrl": "/home/jordanb/MyDigitalSchool/Vue.js/api-user/trombi-dev/public/testphoto.jpg",
+        "gender": "male",
+        "age": 0
     }
 ]
