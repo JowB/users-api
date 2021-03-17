@@ -88,15 +88,5 @@
         "avatarUrl": "/testphoto.jpg",
         "gender": "male",
         "age": 0
-    },
-    {
-        "id": 11,
-        "lastName": "AZD",
-        "firstName": "azd",
-        "email": "florian.bique@my-digital-school.org",
-        "birthDate": "2021-03-08",
-        "avatarUrl": "/home/jordanb/MyDigitalSchool/Vue.js/api-user/trombi-dev/public/testphoto.jpg",
-        "gender": "male",
-        "age": 0
     }
 ]

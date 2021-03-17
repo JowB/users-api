@@ -3,12 +3,20 @@ const express = require("express");
 const fileUpload = require('express-fileupload');
 const cors = require("cors");
 
+// Le path pour que le back serve le vue.js
+const path = __dirname + '/views/';
 const app = express();
 
 app.use(express.static('public'));
+app.use(express.static(path));
 app.use(cors());
 app.use(fileUpload());
 app.use(express.json());
+
+// Point d'entrée pour le Vue.js
+app.get('/', (req, res) => {
+    res.sendFile(path + "index.html");
+});
 
 // Permet de récupérer l'ensemble des utilisateurs
 const readUsers = () => JSON.parse(fs.readFileSync("./user.json").toString());
